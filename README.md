@@ -5,13 +5,3 @@
     
     
     
-    <h4> Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo: <h4/>
-    
-   <h4> ⇨ Existem outras entidades além dessas três?<h4/>
-<h4> Materia e Professor <h4/>
-
-  <h4>⇨ Quais são os principais campos e tipos? <h4/>
-<h4>id, e dos tipos int <h4/>
-
-<h4>⇨ Como essas entidades estão relacionadas? <h4/>
-<h4>1:N e N:1 <h4/>
