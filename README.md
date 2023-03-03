@@ -6,7 +6,7 @@
 ![modelagem](https://user-images.githubusercontent.com/47828514/222605464-b1df9408-9d86-4dde-82eb-83c0f300b376.png) 
     
     
-    <h4> Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo: <h4/>
+ <h4> Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo: <h4/>
     
    <h4> ⇨ Existem outras entidades além dessas três?<h4/>
 <h4> Materia e Professor <h4/>
